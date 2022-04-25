@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  & > .ant-layout {
+    height: 100%;
+    background-color: white;
+  }
+}
+
+.main-content {
+  padding: 1rem;
+}
+
+.app-upload-users {
+  margin: 1.2rem 0;
+  text-align: right;
+}
